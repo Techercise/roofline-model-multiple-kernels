@@ -1,0 +1,5 @@
+﻿ID,Kernel Name,Host Name,Metric Name,Metric Value
+0,OpenMP_4_Ranks_c_kernel,127.0.0.1,FLOPS,2544649322991.39
+0,OpenMP_4_Ranks_c_kernel,127.0.0.1,AI,7.56
+0,OpenMP_4_Ranks_c_kernel,127.0.0.1,Ranks,4
+0,OpenMP_4_Ranks_c_kernel,127.0.0.1,API,0
