@@ -1,5 +1,7 @@
 # roofline-model-multiple-kernels
 
+![alt text](https://github.com/Techercise/roofline-model-multiple-kernels/blob/main/Example_Roofline_Plot/LBM_C_Kernel.png)
+
 ## Repository Overview
 
 The Python files in this repository come from the [NERSC Roofline-on-NVIDIA-GPUs GitLab repo](https://gitlab.com/NERSC/roofline-on-nvidia-gpus). The code from each Python script was modified in order to allow the code to plot multiple kernels (multiple points) from multiple CSV files.
